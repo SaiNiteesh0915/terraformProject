@@ -1,8 +1,3 @@
-//Confidential: Below are!
-//access_key = 'AKIA2YGMIFLCUD2YQDFX'
-//secret_key = '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'
-
-
 //Start of code here
 
 
