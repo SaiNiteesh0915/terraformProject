@@ -4,8 +4,8 @@
 //Credentials provided
 provider "aws" {
   region     = "us-east-1"
-  access_key = "AKIA2YGMIFLCUD2YQDFX"
-  secret_key = "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"
+  access_key = "Enter access key"
+  secret_key = "Enter secret key"
 }
 
 resource "aws_vpc" "Project-1-VPC1" {
